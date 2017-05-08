@@ -33,6 +33,7 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'erubis'
+gem 'devise', git: 'https://github.com/gogovan/devise.git', branch: 'rails-5.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
