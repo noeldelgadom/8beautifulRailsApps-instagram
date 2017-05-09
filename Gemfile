@@ -34,6 +34,7 @@ gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'erubis'
 gem 'devise', git: 'https://github.com/gogovan/devise.git', branch: 'rails-5.1'
+gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
